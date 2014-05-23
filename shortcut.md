@@ -12,3 +12,7 @@
 ### Subsurf
 
 Suddivide la superficie. Non modifica direttamente la mesh, che continua ad essere composta dai suoi vertici.
+
+### Bridge
+
+Serve per connettere due facce separate
