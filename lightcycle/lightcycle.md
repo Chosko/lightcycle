@@ -23,6 +23,8 @@ Compresi i due bordini laterali
 Coordinate centro
 
 * x: 0
+* y: -0.708
+* z: 0.288
 
 #### Ruota anteriore
 
