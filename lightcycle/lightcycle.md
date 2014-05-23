@@ -16,23 +16,27 @@ Rapporti:
 
 Compresi i due bordini laterali
 
-* raggio esterno: 0.3122
+* raggio esterno: 0.2920
 * raggio interno: 0.1506
 * profondità: 0.4720
 
 Coordinate centro
 
 * x: 0
-* y: -0.6859
-* z: 0.3122
 
 #### Ruota anteriore
 
 Compresi i due bordini laterali
 
-* raggio esterno: 0.2920
+* raggio esterno: 0.3122
 * raggio interno: 0.1506
 * profondità: 0.5087
+
+Coordinate centro
+
+* x: 0
+* y: 0.6878
+* z: 0.308 (un po' meno del raggio perchè la suddivisione riduce le dimensioni)
 
 #### Bordini laterali
 
