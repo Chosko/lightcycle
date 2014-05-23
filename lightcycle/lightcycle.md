@@ -14,11 +14,9 @@ Rapporti:
 
 #### Ruota posteriore
 
-Compresi i due bordini laterali
-
 * raggio esterno: 0.2920
 * raggio interno: 0.1506
-* profondità: 0.4720
+* profondità: 0.4222
 
 Coordinate centro
 
@@ -28,11 +26,9 @@ Coordinate centro
 
 #### Ruota anteriore
 
-Compresi i due bordini laterali
-
 * raggio esterno: 0.3122
 * raggio interno: 0.1506
-* profondità: 0.5087
+* profondità: 0.4589
 
 Coordinate centro
 
