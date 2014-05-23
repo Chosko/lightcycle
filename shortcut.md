@@ -7,6 +7,7 @@
 **rotate:** r
 **vincolare la trasformazione**: g,x - g,y - g,z (idem per le altre)
 **subsurf:** ctrl+0 - ctrl+1 - ctrl+2 - ctrl+3 - ctrl+4 - ctrl+5
+**suddividere le facce:** ctrl+r
 
 ### Subsurf
 
