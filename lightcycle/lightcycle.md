@@ -20,6 +20,12 @@ Compresi i due bordini laterali
 * raggio interno: 0.1506
 * profondità: 0.4720
 
+Coordinate centro
+
+* x: 0
+* y: -0.6859
+* z: 0.3122
+
 #### Ruota anteriore
 
 Compresi i due bordini laterali
