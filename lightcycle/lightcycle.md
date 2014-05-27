@@ -14,7 +14,7 @@ Rapporti:
 
 #### Ruota posteriore
 
-* raggio esterno: 0.2920
+* raggio esterno: 0.292 (diametro: 0.584)
 * raggio interno: 0.1506
 * profondità: 0.4222
 
@@ -26,7 +26,7 @@ Coordinate centro
 
 #### Ruota anteriore
 
-* raggio esterno: 0.3122
+* raggio esterno: 0.3122 (diametro: 0.6244)
 * raggio interno: 0.1506
 * profondità: 0.4589
 
