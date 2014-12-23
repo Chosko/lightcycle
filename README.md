@@ -1,0 +1,1 @@
+This project was made with Blender for a 3D Modeling class in Università degli Studi di Torino (Italy) in July 2014.
